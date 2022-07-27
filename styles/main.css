@@ -1,0 +1,48 @@
+.pageHeader{
+    text-align: center;
+    font-size: 100px;
+    text-decoration: underline;
+    color: darkblue;
+}
+.fishTitle{
+    display: flex;
+    justify-content: left;
+    font-size: xx-large;
+}
+.allTheFishDeets{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.listOFish{
+    text-align: left;
+    justify-content: left;
+    color: white
+}
+.happyHarvesting{
+    text-align: center;
+    justify-content: center;
+}
+.quotes{
+    font-size: xx-large;
+}
+.tank, .tankCare{
+    text-align: right;
+    justify-content: right;
+}
+.instruction{
+    font-size: xx-large;
+}
+.tankCare{
+    font-size: smaller;
+}
+html { 
+    background: url(https://assets.weforum.org/article/image/Mg3mkTPk21cznwxI9GOgqJCatFJrA8CIW749SWRQ4Dc.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+.movingFish{
+    background: repeat center;
+}
